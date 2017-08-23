@@ -8,6 +8,7 @@ This repo is a link to Shiny Asdignment given in coursera data science course.In
 ## link to the shiny app
 
 The shiny app can be found live at this url :  https://nashit93.shinyapps.io/deploy/
+And the presentation can be seen at http://rpubs.com/nashit93/Assignment3
 
 ## What does the graph shows?
 
